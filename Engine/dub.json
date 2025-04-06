@@ -1,0 +1,16 @@
+{
+    "authors": [
+        "mike"
+    ],
+    "copyright": "Copyright © 2023, mike",
+    "dependencies": {
+        "bindbc-sdl": "~>1.2.4"
+    },
+    "subConfigurations": {
+        "bindbc-sdl": "dynamic"
+    },
+    "versions": ["BindSDL_TTF"],
+    "description": "A minimal D application.",
+    "license": "proprietary",
+    "name": "brickbreaker"
+}
